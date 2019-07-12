@@ -128,3 +128,6 @@ dmypy.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# pipenv
+Pipfile.lock
