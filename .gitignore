@@ -97,7 +97,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -131,3 +130,18 @@ dmypy.json
 
 # pipenv
 Pipfile.lock
+
+# idea
+.idea
+.vscode
+
+
+# staticfile
+staticfiles/
+
+# mediafiles
+
+mediafiles/
+
+# migrations
+migrations/
