@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+black = "*"
+flake8 = "*"
+pytest = "*"
+sphinx = "*"
+cookiecutter = "*"
+jinja2-git = "*"
+
+[packages]
+django = "==2.2.3"
+django-split-settings = "*"
+psycopg2 = "*"
+gunicorn= "==19.9.0"
+
+[requires]
+python_version = "3.6"
