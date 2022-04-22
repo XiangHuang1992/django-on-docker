@@ -12,7 +12,7 @@ cookiecutter = "*"
 jinja2-git = "*"
 
 [packages]
-django = "==2.2.3"
+django = "==2.2.28"
 django-split-settings = "*"
 psycopg2 = "*"
 gunicorn= "==19.9.0"
